@@ -1,6 +1,9 @@
 # LoanWise – Loan Approval Prediction System
 
 A machine learning project that predicts whether a loan application is likely to be approved or rejected based on an applicant's financial, credit, and personal information. The project covers the complete machine learning workflow, from data preprocessing and exploratory data analysis to model experimentation, evaluation, error analysis, and deployment through a Streamlit web application.
+## Live Demo
+
+[Try LoanWise Here](https://loanwise-predictor.streamlit.app/)
 
 ## Project Overview
 
